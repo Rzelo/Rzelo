@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rzelo
+- 👋 Hi, I’m Roulian 
 - 👀 I’m interested in becoming an actuary 
 - 🌱 I’m currently learning python, rstudio, c+++
 - 💞️ I’m looking to collaborate on new development programmes as i am a beginner. 
